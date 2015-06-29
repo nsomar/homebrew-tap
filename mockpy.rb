@@ -3,7 +3,6 @@
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
 class Mockpy < Formula
-  desc ""
   homepage "https://github.com/oarrabi/mockpy"
   url "https://github.com/oarrabi/mockpy/raw/master/releases/0.1.4/mockpy.zip"
   version "0.1.4"
