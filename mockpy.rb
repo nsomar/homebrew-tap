@@ -4,9 +4,9 @@
 
 class Mockpy < Formula
   homepage "https://github.com/oarrabi/mockpy"
-  url "https://github.com/oarrabi/mockpy/raw/master/releases/0.1.5/mockpy.zip"
-  version "0.1.5"
-  sha256 "bc70c7858afb290c6a022b6ddbfcab7be4b1cc83fbb96538013a9bd3900e3cc1"
+  url "https://github.com/oarrabi/mockpy/raw/master/releases/mockpy.zip"
+  version "0.1.6"
+  sha256 "b9f479699e4b503a7831242461f8d778e648c6d5d9909ccaaaa8411a9a96c698"
 
    def install
     bin.install "mockpy"
