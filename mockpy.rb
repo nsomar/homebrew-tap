@@ -3,9 +3,9 @@
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
 class Mockpy < Formula
-  url "https://github.com/oarrabi/mockpy/raw/master/releases/mockpy.zip"
-  version "0.1.6"
-  sha256 "b9f479699e4b503a7831242461f8d778e648c6d5d9909ccaaaa8411a9a96c698"
+  url "https://github.com/oarrabi/mockpy/releases/download/0.1.7/mockpy.zip"
+  version "0.1.7"
+  sha256 "dc18b9ee10cc1ee9255b6dee62e6bd374447b9c9b67ad9e25440f906da4e36b4"
 
    def install
     bin.install "mockpy"
